@@ -1,0 +1,4 @@
+This is the code fro practical week 2 problems
+Following line has been used for compiling the codes:
+gcc Sum.c -o Sum -Wall
+gcc Conversion.c -o Conversion -lm -Wall
