@@ -1,0 +1,5 @@
+This is the code fro practical week 3  problems
+The task of approximating integral of tan(x) between 0 and pi/3 has been achieved using C.
+Following line has been used for compiling the code:
+gcc integral.c -o integral -lm -Wall
+
