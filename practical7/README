@@ -1,0 +1,6 @@
+This is the code for practical week 6 problems
+
+The codes where compiled using the follwing commands :
+gcc -o Question1 quesition1.c -Wall -lm
+
+gcc -o Question2 question2.c -Wall
