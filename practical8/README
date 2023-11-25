@@ -1,0 +1,5 @@
+This is the code for practical week 8 problems
+
+Following command was used for compiling:
+  gcc gcd.c -o gcd -Wall
+
